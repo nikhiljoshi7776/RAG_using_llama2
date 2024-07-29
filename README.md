@@ -23,7 +23,7 @@ This project provides a web-based Q&A assistant that uses LLaMA-2, a Hugging Fac
 
 ## Installation
 
-1. Clone the repository: - update this
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/nikhiljoshi7776/RAG_using_llama2.git
